@@ -64,7 +64,7 @@ The details are processed and displayed before moving to the next brand.
 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/jeffr49/Brand-Detection-Model.git
 cd your-repo
 
 # Install dependencies
